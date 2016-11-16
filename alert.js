@@ -1,7 +1,7 @@
 // alert.js
 
 var striped_lines_box = document.createElement('div');
-striped_lines_box.style.cssText = "background-image: url(https://i.imgur.com/m5Wjo7h.png); height: 20px;width: 100%;position: fixed; z-index: 99999; opacity: 0.7;";
+striped_lines_box.style.cssText = "background-image: url(https://i.imgur.com/m5Wjo7h.png); height: 20px;width: 100%;position: fixed; z-index: 2147483647; opacity: 0.7;";
 
 var inner_text = document.createElement('span');
 inner_text.textContent = "The information on this site might be false or misleading!";
