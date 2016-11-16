@@ -9,7 +9,6 @@
   },
   "icons": { "128": "icons/icon128.png" },
   "default_locale": "en",
-  
 
   "applications": {
     "gecko": {
@@ -28,7 +27,7 @@
             "*://*.addictinginfo.org//*",
             "*://*.americannewsx.com//*",
             "*://*.samericannews.com/*",
-            "*://*.anonnews.co/*",
+            "*://*.anonews.co/*",
             "*://*.associatedmediacoverage.com/*",
             "*://*.beforeitsnews.com/*",
             "*://*.beingliberal.org/*",
